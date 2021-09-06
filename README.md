@@ -3,7 +3,7 @@
 This repository is about a project I did as a part of my science propaedeutic seminar called "Simulations in
 Java". The file "Daniel Benner - Seminararbeit - Genetische Algorithmen im zellulären Automaten.pdf" is my
 scientific paper about the simulation I coded and contains all the 
-results I got investigating my own algorithm. It's written in German, but I will explain my program so it 
+results I got investigating my own algorithm. It´s written in German, but I will explain my program so it 
 can nevertheless be understood.
 
 During this project I implemented a genetic algorithm using simple reinforcement learning.
